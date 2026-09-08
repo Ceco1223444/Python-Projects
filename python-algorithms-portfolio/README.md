@@ -7,12 +7,7 @@ data structures — recursion, backtracking, dynamic programming, graphs,
 object-oriented design, and a small applied-ML piece. Several were graded
 100%. Organized by topic below.
 
-Note: a handful of these files were pasted from a flattened, line-numbered
-export that stripped all indentation. Indentation in `maze_reachability.py`,
-`n_bit_arrays.py` (partially), `collatz_longest_sequence.py`,
-`edit_distance_top_down.py`, and the `Ring`/`LockCombinationPuzzle` classes in
-`lock_helper.py` was reconstructed to match the original logic and comments,
-then verified to compile. Everything else is unedited. A couple of demo
+Note: A couple of demo
 blocks (e.g. `image_processor.py`) reference local test files, such as an
 image, that aren't included here.
 
