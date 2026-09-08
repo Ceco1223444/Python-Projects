@@ -5,8 +5,7 @@ Tsvetelin Simeonov — Data Science & AI, Leiden University
 
 Selected assignments from university coursework in Python, algorithms, and
 data structures — recursion, backtracking, dynamic programming, graphs,
-object-oriented design, and a small applied-ML piece. Several were graded
-100%. Organized by topic below.
+object-oriented design, and a small applied-ML piece. Organized by topic below.
 
 Note: A couple of demo
 blocks (e.g. `image_processor.py`) reference local test files, such as an
